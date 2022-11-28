@@ -1,0 +1,74 @@
+v0.0.1dev (25/9/2022) - Game created
+v0.0.2dev (25/9/2022) - Added Wonderland pack (does nothing)
+v0.0.3dev (25/9/2022) - Changed Blook Size.
+v0.0.4dev (26/9/2022) - Added Wonderland Blooks, Ripping animation and the Wonderland Pack background.
+v0.0.5dev (26/9/2022) - Changed Main Screen Wonderland Pack Sprite.
+v1.3.1dev (1/10/2022) - Added Tabs.
+v1.3.1dev2 (1/10/2022) - Added Blook Locker (No Books)
+v1.5.0dev (3/10/2022) - Testing Save Codes :)
+v1.7.1dev (5/10/2022) - Testing Load Codes :) :)
+v1.7.2dev2 (5/10/2022) - Patched Load code bug.
+v1.10.7dev (1/11/2022) - Testing Stats Page.
+
+=OFFICIAL RELEASE=
+v1.0.0 WONDERLAND UPDATE (26/9/2022) - Initial Release, Fully Functioning Wonderland Box.
+v1.1.0 (30/9/2022) - Added particles.
+v1.1.1 (30/9/2022) - Changed background colour.
+v1.1.2a (30/9/2022) - Added Epic Animation.
+v1.1.2b (30/9/2022) - Modified Epic Animation.
+v1.1.2c (30/9/2022) - Added Legendary Animation.
+v1.1.2d (30/9/2022) - Added Chroma Animation.
+v1.2.0 AQUATIC UPDATE (1/10/2022) - Added Aquatic Pack.
+v1.3.0 BREAKFAST UPDATE (1/10/2022) - Added Breakfast Pack + Patched multiple Ripping animation bugs.
+v1.3.1 (1/10/2022) - Ramped up background to match Blooket colours.
+v1.4.0 MEDIEVAL PACK (1/10/2022) - Added Medieval Pack.
+v1.4.1 (1/10/2022) - Patched two bugs which lets you not get Pizza.
+v1.4.2 (1/10/2022) - Added wait time for Epic, Legendary and Chroma pulls.
+v1.4.3 (2/10/2022) - Implemented Blook Locker.
+v1.5.0 SPACE UPDATE (3/10/2022) - Added Space Pack.
+v1.6.0 BOT UPDATE (4/10/2022) - Added Bot Pack.
+v1.6.1 (4/10/2022) - Added Aquatic Blook Locker, making them collectible.
+v1.6.2 (5/10/2022) - Updated ripping animation.
+v1.6.3 (5/10/2022) - Updated box opening animation.
+v1.7.0 SAFARI UPDATE (5/10/2022) - Added Safari Pack.
+v1.7.1 (5/10/2022) - Patched a bug affecting Space Pack.
+v1.8.0 SAVE CODE UPDATE (6/10/2022) - You are now able to save and load your progression.
+v1.8.1 (6/10/2022) - Fixed Typing Error surrounding Wonderland Blooks.
+v1.8.2 (6/10/2022) - Fixed save/load code blook multiplying bug.
+v1.8.3 (7/10/2022) - Fixed bug with the Two of Spades blook not showing in the load code.
+v1.8.4 (7/10/2022) - Fixed bug with Pufferfish not saving.
+v1.8.5 TECHNICAL UPDATE (7/10/2022) - Added Blook display feature (Part 1).
+v1.8.6 (9/10/2022) - Added Blook display feature (Part 2).
+v1.8.7 (9/10/2022) - Added Blook count feature (Part 1).
+v1.8.8 (10/10/2022) - Added Spooky Pack.
+v1.8.9 (10/10/2022) - Edited Particles.
+v1.8.10 (10/10/2022) - Added Bonus Blook (Beach and Sandwich).
+v1.8.11 (11/10/2022) - Added Bonus Blook (Knave of Hearts).
+v1.8.12 (11/10/2022) - Added Blook count feature (Part 2).
+v1.8.13 (11/10/2022) - Added Blook count feature (Part 3).
+v1.9.0 DINO UPDATE (13/10/2022) - Added Dino Pack
+v1.10.0 ICE MONSTER UPDATE (13/10/2022) - Added Ice Monster Pack.
+v1.10.1 (15/10/2022) - Updated Uncommon Blook Particles.
+v1.10.2 (16/10/2022) - Updated every particles.
+v1.10.3 SPOOKTOBER UPDATE (23/10/2022) - Added Spooky Pack.
+v1.10.4 (28/10/2022) - Fixed multiple bugs.
+v1.10.5 (28/10/2022) - Added Spooky Pumpkin and Spooky Mummy and added a anti-cheat lock to these two blooks.
+v1.10.6 (29/10/2022) - Added Spooky Ghost and added a anti-cheat lock to Spooky Ghost.
+v1.10.7 (31/10/2022) - Removed locks for contest winners.
+v1.11.0 STATS UPDATE (2/11/2022) - Implemented Stats Page.
+v1.11.1 (3/11/2022) - Fixed lag.
+v1.11.2 (4/11/2022) - Fixed multiple bugs + Removed Spooky Pack until next October.
+v1.11.3 (6/11/2022) - Added The Blook Cashier.
+v1.12.0 MEDIEVAL EXPANSION UPDATE (8/11/2022) - Added 14 bonus chromas that are in Medieval Pack.
+v1.12.1 (10/11/2022) - Updated Stats Page.
+v1.12.2 (11/11/2022) - Modified Legendary Animation.
+v1.12.3 (13/11/2022) - Added No Instant open.
+v1.12.4 (15/11/2022) - Modified Epic Animation.
+v1.12.5 (16/11/2022) - Added Box Rates.
+v1.12.6 (20/11/2022) - Added Blooket Lobby Music into game.
+v1.12.7 (23/11/2022) - Fixed bugs and added Master Elf, Agent Owl and Phantom King.
+v1.12.8 (25/11/2022) - Added Blizzard Pack.
+v1.12.9 (26/11/2022) - Patched Blizzard Pack Bugs.
+v1.12.10 (26/11/2022) - Patched Bugs, Added faster Loading time and added Blook Profile Saving.
+v1.12.11 (27/11/2022) - Added Random Show Blook in the Blook page and fixed bugs with Mythical Blooks.
+v1.12.12 (28/11/2022) - Added Crown Amber (art by MJB20121) and Golden Amber from Blacket.
