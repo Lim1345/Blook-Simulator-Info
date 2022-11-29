@@ -1,12 +1,12 @@
 *NOTE: dev = developer versions which are not released to the public.
 
-v0.0.1dev (25/9/2022) - Game created
-v0.0.2dev (25/9/2022) - Added Wonderland pack (does nothing)
-v0.0.3dev (25/9/2022) - Changed Blook Size.
-v0.0.4dev (26/9/2022) - Added Wonderland Blooks, Ripping animation and the Wonderland Pack background.
-v0.0.5dev (26/9/2022) - Changed Main Screen Wonderland Pack Sprite.
-v1.0.0 WONDERLAND UPDATE (26/9/2022) - Initial Release, Fully Functioning Wonderland Box.
-v1.1.0 (30/9/2022) - Added particles.
+v0.0.1dev (25/9/2022) - Game created, right now it is just a white background.
+v0.0.2dev (25/9/2022) - Added Wonderland pack which does nothing.
+v0.0.3dev (25/9/2022) - Changed Blook Size from 60% to 50% to fit even more blooks in upcoming updates.
+v0.0.4dev (26/9/2022) - Added Wonderland Blooks, Ripping animation (buggy) and the Wonderland Pack background.
+v0.0.5dev (26/9/2022) - Changed Main Screen Wonderland Pack Sprite to the sprite with the colour background.
+v1.0.0 WONDERLAND UPDATE (26/9/2022) - Initial Release with Fully Functioning Wonderland Box.
+v1.1.0 (30/9/2022) - Added particles to pack opening animation.
 v1.1.1 (30/9/2022) - Changed background colour.
 v1.1.2a (30/9/2022) - Added Epic Animation.
 v1.1.2b (30/9/2022) - Modified Epic Animation.
